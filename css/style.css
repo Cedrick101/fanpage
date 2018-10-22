@@ -1,4 +1,10 @@
 html {
+   #navbar{
+   dispaly: flex;
+   justify-contect: space-around;
+}
+
+
     height: 100%;
 }
 
@@ -16,4 +22,9 @@ a {
 .social-image{
     width: 30px;
     margin: 15px;
+}
+
+.gallery{
+    display:flex;
+    justify-contect: space-around;
 }
