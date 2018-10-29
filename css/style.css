@@ -25,6 +25,14 @@ a {
 }
 
 .gallery{
+    height:30px;
+    width:15px;
+    display:flex;
+    justify-contect: space-around;
+}
+.thumbnail{
+    height:100px;
+    
     display:flex;
     justify-contect: space-around;
 }
